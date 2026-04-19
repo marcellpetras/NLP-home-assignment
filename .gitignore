@@ -12,3 +12,6 @@ __pycache__/
 
 # Model Checkpoints
 *_results/
+
+# System
+.DS_Store
