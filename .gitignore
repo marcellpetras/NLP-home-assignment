@@ -1,0 +1,14 @@
+# Environments
+.env
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model Checkpoints
+*_results/
